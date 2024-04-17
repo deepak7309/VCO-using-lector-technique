@@ -1,4 +1,4 @@
-# VCO-using-lector-technique
+# VCO-using-lector-technique in Cadence Virtuoso
 The document introduces a novel method for developing energy-efficient CMOS inverters for ultra-low-power applications. By leveraging the lector technique and reverse body biasing, it reduces leakage current, enhancing oscillator performance.
 In the domain of semiconductor design, the pursuit of energy-efficient circuits has become crucial, particularly with 
 the rising need for ultra-low-power electronic devices. Within this context, the CMOS (complementary metal-oxide semiconductor) inverter, which serves as the fundamental unit of digital circuits, plays a pivotal role. Although 
